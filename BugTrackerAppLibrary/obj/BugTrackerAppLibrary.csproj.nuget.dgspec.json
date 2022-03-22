@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrosa\\source\\repos\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj": {}
+    "C:\\Users\\jrosa\\Desktop\\development\\c_sharp_dev\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrosa\\source\\repos\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj": {
+    "C:\\Users\\jrosa\\Desktop\\development\\c_sharp_dev\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrosa\\source\\repos\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\jrosa\\Desktop\\development\\c_sharp_dev\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj",
         "projectName": "BugTrackerAppLibrary",
-        "projectPath": "C:\\Users\\jrosa\\source\\repos\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj",
+        "projectPath": "C:\\Users\\jrosa\\Desktop\\development\\c_sharp_dev\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj",
         "packagesPath": "C:\\Users\\jrosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrosa\\source\\repos\\BugTrackerApp\\BugTrackerAppLibrary\\obj\\",
+        "outputPath": "C:\\Users\\jrosa\\Desktop\\development\\c_sharp_dev\\BugTrackerApp\\BugTrackerAppLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

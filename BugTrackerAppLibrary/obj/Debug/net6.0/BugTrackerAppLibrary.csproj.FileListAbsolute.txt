@@ -1,0 +1,12 @@
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\bin\Debug\net6.0\BugTrackerAppLibrary.deps.json
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\bin\Debug\net6.0\BugTrackerAppLibrary.dll
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\bin\Debug\net6.0\BugTrackerAppLibrary.pdb
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\BugTrackerAppLibrary.csproj.AssemblyReference.cache
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\BugTrackerAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\BugTrackerAppLibrary.AssemblyInfoInputs.cache
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\BugTrackerAppLibrary.AssemblyInfo.cs
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\BugTrackerAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\BugTrackerAppLibrary.dll
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\refint\BugTrackerAppLibrary.dll
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\BugTrackerAppLibrary.pdb
+C:\Users\jrosa\Desktop\development\c_sharp_dev\BugTrackerApp\BugTrackerAppLibrary\obj\Debug\net6.0\ref\BugTrackerAppLibrary.dll

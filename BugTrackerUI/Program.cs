@@ -1,11 +1,12 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using BugTrackerUI;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddRazorPages();
-builder.Services.AddServerSideBlazor();
+//Extention method: ConfigureDependencyInjection()
+builder.ConfigureDependencyInjection();
+
 
 var app = builder.Build();
 

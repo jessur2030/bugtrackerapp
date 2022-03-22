@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JR5GC7NN/gCiRGsOd/s0peAq4w/a9oPuU/5LEeVB1u/GsFgdmq0wUm2+agRycevBtQ1QVj44ibj3qpDLEGyzig==",
+  "dgSpecHash": "zP+8RxAHq0krxzFhyXXm1gl60s1w55fldO6YCsKLZ2cGv2Pkr+VPDIn/1hIWQXM2i96YA8V/TMyqhMpCzOY8hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jrosa\\source\\repos\\BugTrackerApp\\BugTrackerUI\\BugTrackerUI.csproj",
+  "projectFilePath": "C:\\Users\\jrosa\\Desktop\\development\\c_sharp_dev\\BugTrackerApp\\BugTrackerUI\\BugTrackerUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrosa\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\jrosa\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

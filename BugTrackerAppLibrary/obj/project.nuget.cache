@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2vbPLIbLZpjaG4IKA1ZhbTw8gk27eHp6WpJAaFHaETUq4jbks27K8wpprG1AEQ6jronzxS7mmmQH4o9y746wA==",
+  "dgSpecHash": "O7DxpiGlI99/hl4YZ6HzoXt9uOVDE+F6uj3jTZg0NwijWQ7I/o6dGpnqt7/6+AHwT6xNJ5N1v+8pRukiCwOf5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jrosa\\source\\repos\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj",
+  "projectFilePath": "C:\\Users\\jrosa\\Desktop\\development\\c_sharp_dev\\BugTrackerApp\\BugTrackerAppLibrary\\BugTrackerAppLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrosa\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\jrosa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
