@@ -6,7 +6,7 @@ using MongoDB.Driver;
 namespace BugTrackerAppLibrary.DataAccess;
 //start connection with MangoDB
 //Singlenton class
-public class DbConnection
+public class DbConnection : IDbConnection
 {
 
     //
