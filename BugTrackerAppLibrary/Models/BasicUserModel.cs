@@ -16,6 +16,8 @@ public class BasicUserModel
 
     }
 
+    //BasicUserModel()  contructor:Allows us to Pass in the full UserModel
+    //and create user: and get what we want from UserModel
     public BasicUserModel(UserModel user)
     {
         Id = user.Id;
